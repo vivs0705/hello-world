@@ -3,6 +3,7 @@ e = 30
 b = "abcd"
 c = 2.5
 d = True
+z = 1
 print ("a", a)
 print("e", e)
 print("b", b)
